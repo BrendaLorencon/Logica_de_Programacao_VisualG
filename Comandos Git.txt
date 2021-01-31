@@ -1,0 +1,19 @@
+# Para ver os arquivos que foram alterados
+  git status
+  # Para adicionar um arquivo para um no commit 
+  git add <nome-do-arquivo>
+  # Para adicionar todos os arquivos de uma vez só
+  git add .
+  # Para realizar o commit de algum(ns) arquivo(s)
+  git commit -m "<Mensagem do commit - Seja descritiva>"
+  # Para subir seu commit para o servidor / Github
+  git push
+  # Para baixar atualizações do servidor / Github
+  git pull 
+
+  # Dicionario do git / github
+  git -> Tecnologia que permite versionamento
+  github -> Plataforma pertencente à microsoft que permite versionamento por meio do git
+  commit -> Nova versão
+  push -> Subida de nova versão para o github
+  pull -> Baixar possiveis atualizações do projeto
